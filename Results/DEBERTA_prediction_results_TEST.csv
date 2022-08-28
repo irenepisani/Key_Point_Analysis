@@ -1,0 +1,724 @@
+,arg_id,topic,stance,key_point_id,score,label,label_strict,label_relaxed
+0,arg_0_0,routine child vaccinations should be mandatory,0,kp_0_3,0.43023404479026794,,0.0,1.0
+1,arg_0_1,routine child vaccinations should be mandatory,0,kp_0_0,0.8307788372039795,1.0,1.0,1.0
+2,arg_0_2,routine child vaccinations should be mandatory,0,kp_0_3,0.7018812894821167,1.0,1.0,1.0
+3,arg_0_3,routine child vaccinations should be mandatory,0,kp_0_0,0.21724557876586914,1.0,1.0,1.0
+4,arg_0_4,routine child vaccinations should be mandatory,0,kp_0_0,0.8294124007225037,1.0,1.0,1.0
+5,arg_0_5,routine child vaccinations should be mandatory,0,kp_0_2,0.732623815536499,1.0,1.0,1.0
+6,arg_0_6,routine child vaccinations should be mandatory,0,kp_0_0,0.9748150110244751,1.0,1.0,1.0
+7,arg_0_7,routine child vaccinations should be mandatory,0,kp_0_0,0.9815570116043091,1.0,1.0,1.0
+8,arg_0_8,routine child vaccinations should be mandatory,0,kp_0_0,0.6248105764389038,,0.0,1.0
+9,arg_0_9,routine child vaccinations should be mandatory,0,kp_0_2,0.9744883179664612,1.0,1.0,1.0
+10,arg_0_10,routine child vaccinations should be mandatory,0,kp_0_3,0.74948650598526,1.0,1.0,1.0
+11,arg_0_11,routine child vaccinations should be mandatory,0,kp_0_0,0.9722955226898193,1.0,1.0,1.0
+12,arg_0_12,routine child vaccinations should be mandatory,0,kp_0_3,0.35789740085601807,,0.0,1.0
+13,arg_0_13,routine child vaccinations should be mandatory,0,kp_0_0,0.9644968509674072,1.0,1.0,1.0
+14,arg_0_14,routine child vaccinations should be mandatory,0,kp_0_0,0.9576775431632996,1.0,1.0,1.0
+15,arg_0_15,routine child vaccinations should be mandatory,0,kp_0_3,0.0771646797657013,,0.0,1.0
+16,arg_0_16,routine child vaccinations should be mandatory,0,kp_0_0,0.9882344007492065,1.0,1.0,1.0
+17,arg_0_17,routine child vaccinations should be mandatory,0,kp_0_2,0.9884601831436157,1.0,1.0,1.0
+18,arg_0_18,routine child vaccinations should be mandatory,0,kp_0_1,0.9746700525283813,1.0,1.0,1.0
+19,arg_0_19,routine child vaccinations should be mandatory,0,kp_0_0,0.7700626850128174,1.0,1.0,1.0
+20,arg_0_20,routine child vaccinations should be mandatory,0,kp_0_1,0.980277955532074,1.0,1.0,1.0
+21,arg_0_21,routine child vaccinations should be mandatory,0,kp_0_2,0.44856107234954834,1.0,1.0,1.0
+22,arg_0_22,routine child vaccinations should be mandatory,0,kp_0_0,0.9767898917198181,1.0,1.0,1.0
+23,arg_0_23,routine child vaccinations should be mandatory,0,kp_0_0,0.9397794008255005,1.0,1.0,1.0
+24,arg_0_24,routine child vaccinations should be mandatory,0,kp_0_2,0.1413377970457077,,0.0,1.0
+25,arg_0_25,routine child vaccinations should be mandatory,0,kp_0_2,0.13259880244731903,0.0,0.0,0.0
+26,arg_0_26,routine child vaccinations should be mandatory,0,kp_0_0,0.9292823672294617,1.0,1.0,1.0
+27,arg_0_27,routine child vaccinations should be mandatory,0,kp_0_0,0.9356504678726196,1.0,1.0,1.0
+28,arg_0_28,routine child vaccinations should be mandatory,0,kp_0_1,0.9502168893814087,,0.0,1.0
+29,arg_0_29,routine child vaccinations should be mandatory,0,kp_0_0,0.6479186415672302,1.0,1.0,1.0
+30,arg_0_30,routine child vaccinations should be mandatory,0,kp_0_0,0.8419561386108398,1.0,1.0,1.0
+31,arg_0_31,routine child vaccinations should be mandatory,0,kp_0_2,0.9844346642494202,1.0,1.0,1.0
+32,arg_0_32,routine child vaccinations should be mandatory,0,kp_0_1,0.900801420211792,1.0,1.0,1.0
+33,arg_0_33,routine child vaccinations should be mandatory,0,kp_0_0,0.9355104565620422,1.0,1.0,1.0
+34,arg_0_34,routine child vaccinations should be mandatory,0,kp_0_2,0.13651059567928314,0.0,0.0,0.0
+35,arg_0_35,routine child vaccinations should be mandatory,0,kp_0_2,0.9770510792732239,1.0,1.0,1.0
+36,arg_0_36,routine child vaccinations should be mandatory,0,kp_0_2,0.9876519441604614,1.0,1.0,1.0
+37,arg_0_37,routine child vaccinations should be mandatory,0,kp_0_2,0.9817454218864441,1.0,1.0,1.0
+38,arg_0_38,routine child vaccinations should be mandatory,0,kp_0_1,0.9232142567634583,1.0,1.0,1.0
+39,arg_0_39,routine child vaccinations should be mandatory,0,kp_0_2,0.9636537432670593,1.0,1.0,1.0
+40,arg_0_40,routine child vaccinations should be mandatory,0,kp_0_2,0.9869436025619507,1.0,1.0,1.0
+41,arg_0_41,routine child vaccinations should be mandatory,0,kp_0_0,0.7138742208480835,,0.0,1.0
+42,arg_0_42,routine child vaccinations should be mandatory,0,kp_0_3,0.014805390499532223,0.0,0.0,0.0
+43,arg_0_43,routine child vaccinations should be mandatory,0,kp_0_3,0.01819397695362568,,0.0,1.0
+44,arg_0_44,routine child vaccinations should be mandatory,0,kp_0_2,0.9279258847236633,0.0,0.0,0.0
+45,arg_0_45,routine child vaccinations should be mandatory,0,kp_0_2,0.9068379998207092,,0.0,1.0
+46,arg_0_46,routine child vaccinations should be mandatory,0,kp_0_2,0.7870036959648132,,0.0,1.0
+47,arg_0_47,routine child vaccinations should be mandatory,0,kp_0_1,0.9890110492706299,1.0,1.0,1.0
+48,arg_0_48,routine child vaccinations should be mandatory,0,kp_0_2,0.8239227533340454,1.0,1.0,1.0
+49,arg_0_49,routine child vaccinations should be mandatory,0,kp_0_1,0.9909045100212097,,0.0,1.0
+50,arg_0_50,routine child vaccinations should be mandatory,0,kp_0_0,0.9766040444374084,,0.0,1.0
+51,arg_0_51,routine child vaccinations should be mandatory,0,kp_0_2,0.9667598605155945,1.0,1.0,1.0
+52,arg_0_52,routine child vaccinations should be mandatory,0,kp_0_1,0.9564850330352783,1.0,1.0,1.0
+53,arg_0_53,routine child vaccinations should be mandatory,0,kp_0_0,0.667582631111145,1.0,1.0,1.0
+54,arg_0_54,routine child vaccinations should be mandatory,0,kp_0_0,0.980510413646698,1.0,1.0,1.0
+55,arg_0_55,routine child vaccinations should be mandatory,0,kp_0_0,0.9691539406776428,1.0,1.0,1.0
+56,arg_0_56,routine child vaccinations should be mandatory,0,kp_0_1,0.9370627403259277,1.0,1.0,1.0
+57,arg_0_57,routine child vaccinations should be mandatory,0,kp_0_0,0.02927575074136257,0.0,0.0,0.0
+58,arg_0_58,routine child vaccinations should be mandatory,0,kp_0_3,0.16105610132217407,,0.0,1.0
+59,arg_0_59,routine child vaccinations should be mandatory,0,kp_0_0,0.974949836730957,1.0,1.0,1.0
+60,arg_0_60,routine child vaccinations should be mandatory,0,kp_0_0,0.08059147745370865,1.0,1.0,1.0
+61,arg_0_61,routine child vaccinations should be mandatory,0,kp_0_1,0.49511706829071045,1.0,1.0,1.0
+62,arg_0_62,routine child vaccinations should be mandatory,0,kp_0_0,0.5802460312843323,1.0,1.0,1.0
+63,arg_0_63,routine child vaccinations should be mandatory,0,kp_0_0,0.05584372952580452,0.0,0.0,0.0
+64,arg_0_64,routine child vaccinations should be mandatory,0,kp_0_2,0.9465806484222412,1.0,1.0,1.0
+65,arg_0_65,routine child vaccinations should be mandatory,0,kp_0_0,0.02327793464064598,0.0,0.0,0.0
+66,arg_0_66,routine child vaccinations should be mandatory,0,kp_0_2,0.9754237532615662,,0.0,1.0
+67,arg_0_67,routine child vaccinations should be mandatory,0,kp_0_1,0.6507905721664429,1.0,1.0,1.0
+68,arg_0_68,routine child vaccinations should be mandatory,0,kp_0_3,0.19221313297748566,0.0,0.0,0.0
+69,arg_0_69,routine child vaccinations should be mandatory,0,kp_0_0,0.9733458757400513,1.0,1.0,1.0
+70,arg_0_70,routine child vaccinations should be mandatory,0,kp_0_0,0.9514585137367249,1.0,1.0,1.0
+71,arg_0_71,routine child vaccinations should be mandatory,0,kp_0_0,0.9258963465690613,1.0,1.0,1.0
+72,arg_0_72,routine child vaccinations should be mandatory,0,kp_0_1,0.9064108729362488,1.0,1.0,1.0
+73,arg_0_73,routine child vaccinations should be mandatory,0,kp_0_0,0.9582250714302063,1.0,1.0,1.0
+74,arg_0_74,routine child vaccinations should be mandatory,0,kp_0_0,0.9870831966400146,1.0,1.0,1.0
+75,arg_0_75,routine child vaccinations should be mandatory,0,kp_0_2,0.97176593542099,1.0,1.0,1.0
+76,arg_0_76,routine child vaccinations should be mandatory,0,kp_0_0,0.013589235953986645,0.0,0.0,0.0
+77,arg_0_77,routine child vaccinations should be mandatory,0,kp_0_0,0.012475310824811459,0.0,0.0,0.0
+78,arg_0_78,routine child vaccinations should be mandatory,0,kp_0_0,0.9472819566726685,1.0,1.0,1.0
+79,arg_0_79,routine child vaccinations should be mandatory,0,kp_0_0,0.9573764204978943,1.0,1.0,1.0
+80,arg_0_80,routine child vaccinations should be mandatory,0,kp_0_0,0.9880110621452332,1.0,1.0,1.0
+81,arg_0_81,routine child vaccinations should be mandatory,0,kp_0_2,0.8873605728149414,1.0,1.0,1.0
+82,arg_0_82,routine child vaccinations should be mandatory,0,kp_0_0,0.8427885174751282,1.0,1.0,1.0
+83,arg_0_83,routine child vaccinations should be mandatory,0,kp_0_0,0.7917895317077637,1.0,1.0,1.0
+84,arg_0_84,routine child vaccinations should be mandatory,0,kp_0_0,0.972016453742981,1.0,1.0,1.0
+85,arg_0_85,routine child vaccinations should be mandatory,0,kp_0_0,0.9663103818893433,1.0,1.0,1.0
+86,arg_0_86,routine child vaccinations should be mandatory,0,kp_0_3,0.9177480340003967,,0.0,1.0
+87,arg_0_87,routine child vaccinations should be mandatory,0,kp_0_2,0.9234274625778198,1.0,1.0,1.0
+88,arg_0_88,routine child vaccinations should be mandatory,0,kp_0_2,0.9741326570510864,,0.0,1.0
+89,arg_0_89,routine child vaccinations should be mandatory,0,kp_0_0,0.7999536395072937,1.0,1.0,1.0
+90,arg_0_90,routine child vaccinations should be mandatory,0,kp_0_2,0.35432714223861694,1.0,1.0,1.0
+91,arg_0_91,routine child vaccinations should be mandatory,0,kp_0_2,0.9826433062553406,1.0,1.0,1.0
+92,arg_0_92,routine child vaccinations should be mandatory,0,kp_0_0,0.9809938669204712,1.0,1.0,1.0
+93,arg_0_93,routine child vaccinations should be mandatory,0,kp_0_0,0.9865421056747437,1.0,1.0,1.0
+94,arg_0_94,routine child vaccinations should be mandatory,0,kp_0_0,0.9865905046463013,1.0,1.0,1.0
+95,arg_0_95,routine child vaccinations should be mandatory,0,kp_0_2,0.9707947969436646,1.0,1.0,1.0
+96,arg_0_96,routine child vaccinations should be mandatory,0,kp_0_2,0.9286924600601196,1.0,1.0,1.0
+97,arg_0_97,routine child vaccinations should be mandatory,0,kp_0_0,0.9826509356498718,1.0,1.0,1.0
+98,arg_0_98,routine child vaccinations should be mandatory,0,kp_0_0,0.9182412624359131,1.0,1.0,1.0
+99,arg_0_99,routine child vaccinations should be mandatory,0,kp_0_0,0.9471312761306763,1.0,1.0,1.0
+100,arg_0_100,routine child vaccinations should be mandatory,0,kp_0_2,0.9832475781440735,1.0,1.0,1.0
+101,arg_0_101,routine child vaccinations should be mandatory,0,kp_0_2,0.01729876548051834,0.0,0.0,0.0
+102,arg_0_102,routine child vaccinations should be mandatory,0,kp_0_0,0.01746133342385292,0.0,0.0,0.0
+103,arg_0_103,routine child vaccinations should be mandatory,0,kp_0_0,0.9480104446411133,,0.0,1.0
+104,arg_0_104,routine child vaccinations should be mandatory,0,kp_0_0,0.985892117023468,1.0,1.0,1.0
+105,arg_0_105,routine child vaccinations should be mandatory,0,kp_0_0,0.9791854023933411,1.0,1.0,1.0
+106,arg_0_106,routine child vaccinations should be mandatory,0,kp_0_3,0.03744317218661308,,0.0,1.0
+107,arg_0_107,routine child vaccinations should be mandatory,0,kp_0_3,0.050293657928705215,0.0,0.0,0.0
+108,arg_0_108,routine child vaccinations should be mandatory,0,kp_0_0,0.8793420791625977,1.0,1.0,1.0
+109,arg_0_109,routine child vaccinations should be mandatory,0,kp_0_0,0.985243558883667,1.0,1.0,1.0
+110,arg_0_110,routine child vaccinations should be mandatory,0,kp_0_0,0.7486559748649597,1.0,1.0,1.0
+111,arg_0_111,routine child vaccinations should be mandatory,0,kp_0_0,0.8637826442718506,1.0,1.0,1.0
+112,arg_0_112,routine child vaccinations should be mandatory,1,kp_0_7,0.9813159704208374,1.0,1.0,1.0
+113,arg_0_113,routine child vaccinations should be mandatory,1,kp_0_7,0.9850268959999084,1.0,1.0,1.0
+114,arg_0_114,routine child vaccinations should be mandatory,1,kp_0_6,0.9916537404060364,0.0,0.0,0.0
+115,arg_0_115,routine child vaccinations should be mandatory,1,kp_0_7,0.9828943610191345,,0.0,1.0
+116,arg_0_116,routine child vaccinations should be mandatory,1,kp_0_7,0.9872114062309265,1.0,1.0,1.0
+117,arg_0_117,routine child vaccinations should be mandatory,1,kp_0_4,0.1529981642961502,,0.0,1.0
+118,arg_0_118,routine child vaccinations should be mandatory,1,kp_0_8,0.01733526401221752,0.0,0.0,0.0
+119,arg_0_119,routine child vaccinations should be mandatory,1,kp_0_6,0.9798794388771057,1.0,1.0,1.0
+120,arg_0_120,routine child vaccinations should be mandatory,1,kp_0_8,0.9512165784835815,1.0,1.0,1.0
+121,arg_0_121,routine child vaccinations should be mandatory,1,kp_0_6,0.9847041368484497,0.0,0.0,0.0
+122,arg_0_122,routine child vaccinations should be mandatory,1,kp_0_5,0.9076800346374512,0.0,0.0,0.0
+123,arg_0_123,routine child vaccinations should be mandatory,1,kp_0_8,0.8826249837875366,1.0,1.0,1.0
+124,arg_0_124,routine child vaccinations should be mandatory,1,kp_0_4,0.03362948074936867,0.0,0.0,0.0
+125,arg_0_125,routine child vaccinations should be mandatory,1,kp_0_8,0.9899134635925293,1.0,1.0,1.0
+126,arg_0_126,routine child vaccinations should be mandatory,1,kp_0_7,0.9848487973213196,1.0,1.0,1.0
+127,arg_0_127,routine child vaccinations should be mandatory,1,kp_0_6,0.9880159497261047,,0.0,1.0
+128,arg_0_128,routine child vaccinations should be mandatory,1,kp_0_7,0.9821134209632874,1.0,1.0,1.0
+129,arg_0_129,routine child vaccinations should be mandatory,1,kp_0_7,0.9844728112220764,1.0,1.0,1.0
+130,arg_0_130,routine child vaccinations should be mandatory,1,kp_0_7,0.9787963628768921,1.0,1.0,1.0
+131,arg_0_131,routine child vaccinations should be mandatory,1,kp_0_7,0.9884105920791626,1.0,1.0,1.0
+132,arg_0_132,routine child vaccinations should be mandatory,1,kp_0_6,0.1474817991256714,0.0,0.0,0.0
+133,arg_0_133,routine child vaccinations should be mandatory,1,kp_0_8,0.9790253043174744,,0.0,1.0
+134,arg_0_134,routine child vaccinations should be mandatory,1,kp_0_7,0.9633988738059998,,0.0,1.0
+135,arg_0_135,routine child vaccinations should be mandatory,1,kp_0_7,0.9888705611228943,1.0,1.0,1.0
+136,arg_0_136,routine child vaccinations should be mandatory,1,kp_0_6,0.967975914478302,,0.0,1.0
+137,arg_0_137,routine child vaccinations should be mandatory,1,kp_0_8,0.9684529900550842,1.0,1.0,1.0
+138,arg_0_138,routine child vaccinations should be mandatory,1,kp_0_8,0.9843036532402039,1.0,1.0,1.0
+139,arg_0_139,routine child vaccinations should be mandatory,1,kp_0_8,0.9155135154724121,0.0,0.0,0.0
+140,arg_0_140,routine child vaccinations should be mandatory,1,kp_0_6,0.9847356081008911,0.0,0.0,0.0
+141,arg_0_141,routine child vaccinations should be mandatory,1,kp_0_6,0.09162107110023499,0.0,0.0,0.0
+142,arg_0_142,routine child vaccinations should be mandatory,1,kp_0_7,0.9837886095046997,,0.0,1.0
+143,arg_0_143,routine child vaccinations should be mandatory,1,kp_0_6,0.9840083122253418,,0.0,1.0
+144,arg_0_144,routine child vaccinations should be mandatory,1,kp_0_7,0.9873268008232117,0.0,0.0,0.0
+145,arg_0_145,routine child vaccinations should be mandatory,1,kp_0_6,0.7677720189094543,0.0,0.0,0.0
+146,arg_0_146,routine child vaccinations should be mandatory,1,kp_0_8,0.9782702922821045,,0.0,1.0
+147,arg_0_147,routine child vaccinations should be mandatory,1,kp_0_6,0.5590223073959351,0.0,0.0,0.0
+148,arg_0_148,routine child vaccinations should be mandatory,1,kp_0_6,0.9831346273422241,,0.0,1.0
+149,arg_0_149,routine child vaccinations should be mandatory,1,kp_0_6,0.9907138347625732,0.0,0.0,0.0
+150,arg_0_150,routine child vaccinations should be mandatory,1,kp_0_7,0.5203765034675598,0.0,0.0,0.0
+151,arg_0_151,routine child vaccinations should be mandatory,1,kp_0_6,0.9874429106712341,0.0,0.0,0.0
+152,arg_0_152,routine child vaccinations should be mandatory,1,kp_0_8,0.03235437721014023,0.0,0.0,0.0
+153,arg_0_153,routine child vaccinations should be mandatory,1,kp_0_6,0.1463981717824936,0.0,0.0,0.0
+154,arg_0_154,routine child vaccinations should be mandatory,1,kp_0_7,0.9876318573951721,1.0,1.0,1.0
+155,arg_0_155,routine child vaccinations should be mandatory,1,kp_0_6,0.3952292501926422,,0.0,1.0
+156,arg_0_156,routine child vaccinations should be mandatory,1,kp_0_7,0.9493539333343506,1.0,1.0,1.0
+157,arg_0_157,routine child vaccinations should be mandatory,1,kp_0_7,0.8783358335494995,1.0,1.0,1.0
+158,arg_0_158,routine child vaccinations should be mandatory,1,kp_0_4,0.9280850291252136,,0.0,1.0
+159,arg_0_159,routine child vaccinations should be mandatory,1,kp_0_7,0.9745926260948181,1.0,1.0,1.0
+160,arg_0_160,routine child vaccinations should be mandatory,1,kp_0_6,0.9689577221870422,,0.0,1.0
+161,arg_0_161,routine child vaccinations should be mandatory,1,kp_0_5,0.9798881411552429,1.0,1.0,1.0
+162,arg_0_162,routine child vaccinations should be mandatory,1,kp_0_6,0.9899969100952148,1.0,1.0,1.0
+163,arg_0_163,routine child vaccinations should be mandatory,1,kp_0_7,0.9798858761787415,1.0,1.0,1.0
+164,arg_0_164,routine child vaccinations should be mandatory,1,kp_0_8,0.9601077437400818,1.0,1.0,1.0
+165,arg_0_165,routine child vaccinations should be mandatory,1,kp_0_6,0.9867045879364014,,0.0,1.0
+166,arg_0_166,routine child vaccinations should be mandatory,1,kp_0_6,0.9907954335212708,0.0,0.0,0.0
+167,arg_0_167,routine child vaccinations should be mandatory,1,kp_0_6,0.988906741142273,,0.0,1.0
+168,arg_0_168,routine child vaccinations should be mandatory,1,kp_0_7,0.9704082608222961,1.0,1.0,1.0
+169,arg_0_169,routine child vaccinations should be mandatory,1,kp_0_6,0.9737576842308044,1.0,1.0,1.0
+170,arg_0_170,routine child vaccinations should be mandatory,1,kp_0_7,0.984941303730011,1.0,1.0,1.0
+171,arg_0_171,routine child vaccinations should be mandatory,1,kp_0_8,0.9821037650108337,1.0,1.0,1.0
+172,arg_0_172,routine child vaccinations should be mandatory,1,kp_0_7,0.9693647027015686,1.0,1.0,1.0
+173,arg_0_173,routine child vaccinations should be mandatory,1,kp_0_8,0.4519561529159546,1.0,1.0,1.0
+174,arg_0_174,routine child vaccinations should be mandatory,1,kp_0_6,0.971532940864563,0.0,0.0,0.0
+175,arg_0_175,routine child vaccinations should be mandatory,1,kp_0_8,0.9810230135917664,1.0,1.0,1.0
+176,arg_0_176,routine child vaccinations should be mandatory,1,kp_0_8,0.9890955090522766,1.0,1.0,1.0
+177,arg_0_177,routine child vaccinations should be mandatory,1,kp_0_6,0.9904356002807617,1.0,1.0,1.0
+178,arg_0_178,routine child vaccinations should be mandatory,1,kp_0_8,0.9692980647087097,,0.0,1.0
+179,arg_0_179,routine child vaccinations should be mandatory,1,kp_0_7,0.982352077960968,1.0,1.0,1.0
+180,arg_0_180,routine child vaccinations should be mandatory,1,kp_0_8,0.984667956829071,,0.0,1.0
+181,arg_0_181,routine child vaccinations should be mandatory,1,kp_0_6,0.8500622510910034,,0.0,1.0
+182,arg_0_182,routine child vaccinations should be mandatory,1,kp_0_8,0.9840162992477417,1.0,1.0,1.0
+183,arg_0_183,routine child vaccinations should be mandatory,1,kp_0_7,0.9887125492095947,1.0,1.0,1.0
+184,arg_0_184,routine child vaccinations should be mandatory,1,kp_0_6,0.7610765695571899,0.0,0.0,0.0
+185,arg_0_185,routine child vaccinations should be mandatory,1,kp_0_4,0.7684047818183899,1.0,1.0,1.0
+186,arg_0_186,routine child vaccinations should be mandatory,1,kp_0_4,0.15997080504894257,0.0,0.0,0.0
+187,arg_0_187,routine child vaccinations should be mandatory,1,kp_0_7,0.9262991547584534,0.0,0.0,0.0
+188,arg_0_188,routine child vaccinations should be mandatory,1,kp_0_5,0.9873260259628296,1.0,1.0,1.0
+189,arg_0_189,routine child vaccinations should be mandatory,1,kp_0_5,0.9909430146217346,1.0,1.0,1.0
+190,arg_0_190,routine child vaccinations should be mandatory,1,kp_0_7,0.9634497761726379,,0.0,1.0
+191,arg_0_191,routine child vaccinations should be mandatory,1,kp_0_7,0.9524017572402954,,0.0,1.0
+192,arg_0_192,routine child vaccinations should be mandatory,1,kp_0_8,0.022084210067987442,,0.0,1.0
+193,arg_0_193,routine child vaccinations should be mandatory,1,kp_0_7,0.9847999811172485,,0.0,1.0
+194,arg_0_194,routine child vaccinations should be mandatory,1,kp_0_5,0.9884501695632935,1.0,1.0,1.0
+195,arg_0_195,routine child vaccinations should be mandatory,1,kp_0_4,0.8377892971038818,1.0,1.0,1.0
+196,arg_0_196,routine child vaccinations should be mandatory,1,kp_0_6,0.985072910785675,0.0,0.0,0.0
+197,arg_0_197,routine child vaccinations should be mandatory,1,kp_0_7,0.9890045523643494,1.0,1.0,1.0
+198,arg_0_198,routine child vaccinations should be mandatory,1,kp_0_7,0.9887745380401611,1.0,1.0,1.0
+199,arg_0_199,routine child vaccinations should be mandatory,1,kp_0_4,0.5313698053359985,0.0,0.0,0.0
+200,arg_0_200,routine child vaccinations should be mandatory,1,kp_0_6,0.03183187171816826,0.0,0.0,0.0
+201,arg_0_201,routine child vaccinations should be mandatory,1,kp_0_7,0.8735214471817017,0.0,0.0,0.0
+202,arg_0_202,routine child vaccinations should be mandatory,1,kp_0_5,0.9853560328483582,1.0,1.0,1.0
+203,arg_0_203,routine child vaccinations should be mandatory,1,kp_0_8,0.9583925604820251,,0.0,1.0
+204,arg_0_204,routine child vaccinations should be mandatory,1,kp_0_5,0.9708384275436401,,0.0,1.0
+205,arg_0_205,routine child vaccinations should be mandatory,1,kp_0_5,0.9572280645370483,1.0,1.0,1.0
+206,arg_0_206,routine child vaccinations should be mandatory,1,kp_0_7,0.9571211338043213,0.0,0.0,0.0
+207,arg_0_207,routine child vaccinations should be mandatory,1,kp_0_5,0.7924149632453918,1.0,1.0,1.0
+208,arg_0_208,routine child vaccinations should be mandatory,1,kp_0_5,0.9820696115493774,1.0,1.0,1.0
+209,arg_0_209,routine child vaccinations should be mandatory,1,kp_0_6,0.9913359880447388,1.0,1.0,1.0
+210,arg_0_210,routine child vaccinations should be mandatory,1,kp_0_7,0.9897191524505615,1.0,1.0,1.0
+211,arg_0_211,routine child vaccinations should be mandatory,1,kp_0_6,0.9827019572257996,,0.0,1.0
+212,arg_0_212,routine child vaccinations should be mandatory,1,kp_0_8,0.9554305672645569,,0.0,1.0
+213,arg_0_213,routine child vaccinations should be mandatory,1,kp_0_7,0.9691730737686157,,0.0,1.0
+214,arg_0_214,routine child vaccinations should be mandatory,1,kp_0_8,0.9842987060546875,1.0,1.0,1.0
+215,arg_0_215,routine child vaccinations should be mandatory,1,kp_0_8,0.8703665137290955,0.0,0.0,0.0
+216,arg_0_216,routine child vaccinations should be mandatory,1,kp_0_8,0.9785215854644775,1.0,1.0,1.0
+217,arg_0_217,routine child vaccinations should be mandatory,1,kp_0_5,0.9792280197143555,1.0,1.0,1.0
+218,arg_0_218,routine child vaccinations should be mandatory,1,kp_0_5,0.988413393497467,1.0,1.0,1.0
+219,arg_0_219,routine child vaccinations should be mandatory,1,kp_0_8,0.9823386073112488,1.0,1.0,1.0
+220,arg_0_220,routine child vaccinations should be mandatory,1,kp_0_8,0.9783903360366821,1.0,1.0,1.0
+221,arg_0_221,routine child vaccinations should be mandatory,1,kp_0_6,0.02968202903866768,0.0,0.0,0.0
+222,arg_0_222,routine child vaccinations should be mandatory,1,kp_0_5,0.32761746644973755,0.0,0.0,0.0
+223,arg_0_223,routine child vaccinations should be mandatory,1,kp_0_8,0.9130415916442871,,0.0,1.0
+224,arg_0_224,routine child vaccinations should be mandatory,1,kp_0_6,0.9839257001876831,0.0,0.0,0.0
+225,arg_0_225,routine child vaccinations should be mandatory,1,kp_0_5,0.984152615070343,1.0,1.0,1.0
+226,arg_0_226,routine child vaccinations should be mandatory,1,kp_0_4,0.12460216879844666,,0.0,1.0
+227,arg_0_227,routine child vaccinations should be mandatory,1,kp_0_6,0.9897391200065613,,0.0,1.0
+228,arg_0_228,routine child vaccinations should be mandatory,1,kp_0_6,0.9902501702308655,0.0,0.0,0.0
+229,arg_0_229,routine child vaccinations should be mandatory,1,kp_0_7,0.9859813451766968,,0.0,1.0
+230,arg_0_230,routine child vaccinations should be mandatory,1,kp_0_6,0.9876519441604614,0.0,0.0,0.0
+231,arg_0_231,routine child vaccinations should be mandatory,1,kp_0_8,0.030327314510941505,0.0,0.0,0.0
+232,arg_0_232,routine child vaccinations should be mandatory,1,kp_0_4,0.03996535390615463,,0.0,1.0
+233,arg_0_233,routine child vaccinations should be mandatory,1,kp_0_6,0.9729385375976562,0.0,0.0,0.0
+234,arg_0_234,routine child vaccinations should be mandatory,1,kp_0_6,0.7183038592338562,0.0,0.0,0.0
+235,arg_0_235,routine child vaccinations should be mandatory,1,kp_0_4,0.13985155522823334,,0.0,1.0
+236,arg_0_236,routine child vaccinations should be mandatory,1,kp_0_6,0.9883365035057068,,0.0,1.0
+237,arg_0_237,routine child vaccinations should be mandatory,1,kp_0_7,0.8311524987220764,0.0,0.0,0.0
+238,arg_0_238,routine child vaccinations should be mandatory,1,kp_0_8,0.9553812146186829,1.0,1.0,1.0
+239,arg_0_239,routine child vaccinations should be mandatory,1,kp_0_5,0.47684720158576965,0.0,0.0,0.0
+240,arg_0_240,routine child vaccinations should be mandatory,1,kp_0_6,0.2665726840496063,0.0,0.0,0.0
+241,arg_0_241,routine child vaccinations should be mandatory,1,kp_0_5,0.09243307262659073,1.0,1.0,1.0
+242,arg_0_242,routine child vaccinations should be mandatory,1,kp_0_8,0.09489737451076508,,0.0,1.0
+243,arg_0_243,routine child vaccinations should be mandatory,1,kp_0_7,0.9826543927192688,1.0,1.0,1.0
+244,arg_0_244,routine child vaccinations should be mandatory,1,kp_0_6,0.98680579662323,,0.0,1.0
+245,arg_0_245,routine child vaccinations should be mandatory,1,kp_0_6,0.943156361579895,0.0,0.0,0.0
+246,arg_0_246,routine child vaccinations should be mandatory,1,kp_0_8,0.9804044365882874,,0.0,1.0
+247,arg_0_247,routine child vaccinations should be mandatory,1,kp_0_6,0.5953130722045898,,0.0,1.0
+248,arg_0_248,routine child vaccinations should be mandatory,1,kp_0_8,0.9843234419822693,1.0,1.0,1.0
+249,arg_0_249,routine child vaccinations should be mandatory,1,kp_0_6,0.8397237062454224,,0.0,1.0
+250,arg_0_250,routine child vaccinations should be mandatory,1,kp_0_7,0.9661100506782532,,0.0,1.0
+251,arg_0_251,routine child vaccinations should be mandatory,1,kp_0_8,0.016512636095285416,0.0,0.0,0.0
+252,arg_0_252,routine child vaccinations should be mandatory,1,kp_0_8,0.023105788975954056,0.0,0.0,0.0
+253,arg_0_253,routine child vaccinations should be mandatory,1,kp_0_6,0.231331005692482,0.0,0.0,0.0
+254,arg_0_254,routine child vaccinations should be mandatory,1,kp_0_6,0.07223740220069885,,0.0,1.0
+255,arg_0_255,routine child vaccinations should be mandatory,1,kp_0_8,0.9751694202423096,,0.0,1.0
+256,arg_0_256,routine child vaccinations should be mandatory,1,kp_0_6,0.9905334711074829,0.0,0.0,0.0
+257,arg_0_257,routine child vaccinations should be mandatory,1,kp_0_4,0.12190939486026764,,0.0,1.0
+258,arg_0_258,routine child vaccinations should be mandatory,1,kp_0_6,0.9809288382530212,0.0,0.0,0.0
+259,arg_0_259,routine child vaccinations should be mandatory,1,kp_0_7,0.9836428761482239,1.0,1.0,1.0
+260,arg_0_260,routine child vaccinations should be mandatory,1,kp_0_6,0.9704957604408264,,0.0,1.0
+261,arg_0_261,routine child vaccinations should be mandatory,1,kp_0_6,0.9887958765029907,0.0,0.0,0.0
+262,arg_0_262,routine child vaccinations should be mandatory,1,kp_0_7,0.9795992374420166,1.0,1.0,1.0
+263,arg_0_263,routine child vaccinations should be mandatory,1,kp_0_7,0.9465333223342896,1.0,1.0,1.0
+264,arg_0_264,routine child vaccinations should be mandatory,1,kp_0_6,0.9895808696746826,1.0,1.0,1.0
+265,arg_0_265,routine child vaccinations should be mandatory,1,kp_0_7,0.9884230494499207,1.0,1.0,1.0
+266,arg_0_266,routine child vaccinations should be mandatory,1,kp_0_6,0.9892751574516296,,0.0,1.0
+267,arg_0_267,routine child vaccinations should be mandatory,1,kp_0_7,0.9813643097877502,1.0,1.0,1.0
+268,arg_0_268,routine child vaccinations should be mandatory,1,kp_0_6,0.9828563332557678,,0.0,1.0
+269,arg_0_269,routine child vaccinations should be mandatory,1,kp_0_6,0.03306299448013306,0.0,0.0,0.0
+270,arg_0_270,routine child vaccinations should be mandatory,1,kp_0_7,0.8376871347427368,,0.0,1.0
+271,arg_0_271,routine child vaccinations should be mandatory,1,kp_0_6,0.46442273259162903,,0.0,1.0
+272,arg_0_272,routine child vaccinations should be mandatory,1,kp_0_7,0.772948682308197,,0.0,1.0
+273,arg_0_273,routine child vaccinations should be mandatory,1,kp_0_7,0.9841336011886597,0.0,0.0,0.0
+274,arg_0_274,routine child vaccinations should be mandatory,1,kp_0_7,0.01398877426981926,0.0,0.0,0.0
+275,arg_0_275,routine child vaccinations should be mandatory,1,kp_0_8,0.9858476519584656,1.0,1.0,1.0
+276,arg_0_276,routine child vaccinations should be mandatory,1,kp_0_6,0.9794225096702576,0.0,0.0,0.0
+277,arg_0_277,routine child vaccinations should be mandatory,1,kp_0_7,0.9375700354576111,1.0,1.0,1.0
+278,arg_0_278,routine child vaccinations should be mandatory,1,kp_0_7,0.9713413715362549,,0.0,1.0
+279,arg_0_279,routine child vaccinations should be mandatory,1,kp_0_8,0.9735406041145325,,0.0,1.0
+280,arg_1_0,social media platforms should be regulated by the government,0,kp_1_1,0.0696583017706871,0.0,0.0,0.0
+281,arg_1_1,social media platforms should be regulated by the government,0,kp_1_1,0.8588287234306335,1.0,1.0,1.0
+282,arg_1_2,social media platforms should be regulated by the government,0,kp_1_2,0.9185755252838135,1.0,1.0,1.0
+283,arg_1_3,social media platforms should be regulated by the government,0,kp_1_2,0.97548508644104,1.0,1.0,1.0
+284,arg_1_4,social media platforms should be regulated by the government,0,kp_1_2,0.9609357714653015,1.0,1.0,1.0
+285,arg_1_5,social media platforms should be regulated by the government,0,kp_1_4,0.9805410504341125,1.0,1.0,1.0
+286,arg_1_6,social media platforms should be regulated by the government,0,kp_1_2,0.981101393699646,1.0,1.0,1.0
+287,arg_1_7,social media platforms should be regulated by the government,0,kp_1_2,0.8894490003585815,1.0,1.0,1.0
+288,arg_1_8,social media platforms should be regulated by the government,0,kp_1_3,0.45449259877204895,0.0,0.0,0.0
+289,arg_1_9,social media platforms should be regulated by the government,0,kp_1_2,0.9925119876861572,1.0,1.0,1.0
+290,arg_1_10,social media platforms should be regulated by the government,0,kp_1_2,0.9637485146522522,1.0,1.0,1.0
+291,arg_1_11,social media platforms should be regulated by the government,0,kp_1_2,0.9848945736885071,1.0,1.0,1.0
+292,arg_1_12,social media platforms should be regulated by the government,0,kp_1_1,0.976895809173584,0.0,0.0,0.0
+293,arg_1_13,social media platforms should be regulated by the government,0,kp_1_1,0.9653455018997192,1.0,1.0,1.0
+294,arg_1_14,social media platforms should be regulated by the government,0,kp_1_2,0.9527461528778076,1.0,1.0,1.0
+295,arg_1_15,social media platforms should be regulated by the government,0,kp_1_3,0.9715583920478821,1.0,1.0,1.0
+296,arg_1_16,social media platforms should be regulated by the government,0,kp_1_2,0.9801771640777588,1.0,1.0,1.0
+297,arg_1_17,social media platforms should be regulated by the government,0,kp_1_0,0.24976210296154022,,0.0,1.0
+298,arg_1_18,social media platforms should be regulated by the government,0,kp_1_2,0.9792972207069397,1.0,1.0,1.0
+299,arg_1_19,social media platforms should be regulated by the government,0,kp_1_4,0.744900643825531,1.0,1.0,1.0
+300,arg_1_20,social media platforms should be regulated by the government,0,kp_1_3,0.944533109664917,0.0,0.0,0.0
+301,arg_1_21,social media platforms should be regulated by the government,0,kp_1_1,0.9783200025558472,0.0,0.0,0.0
+302,arg_1_22,social media platforms should be regulated by the government,0,kp_1_2,0.9844775199890137,1.0,1.0,1.0
+303,arg_1_23,social media platforms should be regulated by the government,0,kp_1_2,0.9848452806472778,1.0,1.0,1.0
+304,arg_1_24,social media platforms should be regulated by the government,0,kp_1_2,0.9722235202789307,1.0,1.0,1.0
+305,arg_1_25,social media platforms should be regulated by the government,0,kp_1_2,0.9840739965438843,1.0,1.0,1.0
+306,arg_1_26,social media platforms should be regulated by the government,0,kp_1_2,0.9297897815704346,0.0,0.0,0.0
+307,arg_1_27,social media platforms should be regulated by the government,0,kp_1_3,0.958702564239502,0.0,0.0,0.0
+308,arg_1_28,social media platforms should be regulated by the government,0,kp_1_2,0.9795619249343872,1.0,1.0,1.0
+309,arg_1_29,social media platforms should be regulated by the government,0,kp_1_2,0.9685048460960388,1.0,1.0,1.0
+310,arg_1_30,social media platforms should be regulated by the government,0,kp_1_2,0.038984887301921844,0.0,0.0,0.0
+311,arg_1_31,social media platforms should be regulated by the government,0,kp_1_1,0.775932788848877,,0.0,1.0
+312,arg_1_32,social media platforms should be regulated by the government,0,kp_1_2,0.9894930124282837,1.0,1.0,1.0
+313,arg_1_33,social media platforms should be regulated by the government,0,kp_1_2,0.9862053990364075,1.0,1.0,1.0
+314,arg_1_34,social media platforms should be regulated by the government,0,kp_1_3,0.9005363583564758,0.0,0.0,0.0
+315,arg_1_35,social media platforms should be regulated by the government,0,kp_1_0,0.035051725804805756,1.0,1.0,1.0
+316,arg_1_36,social media platforms should be regulated by the government,0,kp_1_1,0.9815508127212524,1.0,1.0,1.0
+317,arg_1_37,social media platforms should be regulated by the government,0,kp_1_1,0.973025918006897,0.0,0.0,0.0
+318,arg_1_38,social media platforms should be regulated by the government,0,kp_1_2,0.97184818983078,1.0,1.0,1.0
+319,arg_1_39,social media platforms should be regulated by the government,0,kp_1_3,0.23203641176223755,0.0,0.0,0.0
+320,arg_1_40,social media platforms should be regulated by the government,0,kp_1_0,0.8900374174118042,,0.0,1.0
+321,arg_1_41,social media platforms should be regulated by the government,0,kp_1_2,0.8956238031387329,1.0,1.0,1.0
+322,arg_1_42,social media platforms should be regulated by the government,0,kp_1_1,0.1461925357580185,0.0,0.0,0.0
+323,arg_1_43,social media platforms should be regulated by the government,0,kp_1_1,0.8691702485084534,1.0,1.0,1.0
+324,arg_1_44,social media platforms should be regulated by the government,0,kp_1_4,0.8941121101379395,0.0,0.0,0.0
+325,arg_1_45,social media platforms should be regulated by the government,0,kp_1_2,0.9844182729721069,1.0,1.0,1.0
+326,arg_1_46,social media platforms should be regulated by the government,0,kp_1_1,0.9597110748291016,1.0,1.0,1.0
+327,arg_1_47,social media platforms should be regulated by the government,0,kp_1_0,0.0844259038567543,,0.0,1.0
+328,arg_1_48,social media platforms should be regulated by the government,0,kp_1_3,0.13047227263450623,0.0,0.0,0.0
+329,arg_1_49,social media platforms should be regulated by the government,0,kp_1_1,0.9702614545822144,0.0,0.0,0.0
+330,arg_1_50,social media platforms should be regulated by the government,0,kp_1_1,0.8552005290985107,0.0,0.0,0.0
+331,arg_1_51,social media platforms should be regulated by the government,0,kp_1_1,0.5734176635742188,0.0,0.0,0.0
+332,arg_1_52,social media platforms should be regulated by the government,0,kp_1_3,0.04135081544518471,0.0,0.0,0.0
+333,arg_1_53,social media platforms should be regulated by the government,0,kp_1_2,0.9781250953674316,1.0,1.0,1.0
+334,arg_1_54,social media platforms should be regulated by the government,0,kp_1_2,0.9874070882797241,1.0,1.0,1.0
+335,arg_1_55,social media platforms should be regulated by the government,0,kp_1_2,0.9903436899185181,1.0,1.0,1.0
+336,arg_1_56,social media platforms should be regulated by the government,0,kp_1_2,0.9593684077262878,1.0,1.0,1.0
+337,arg_1_57,social media platforms should be regulated by the government,0,kp_1_1,0.9904228448867798,1.0,1.0,1.0
+338,arg_1_58,social media platforms should be regulated by the government,0,kp_1_2,0.9883254766464233,1.0,1.0,1.0
+339,arg_1_59,social media platforms should be regulated by the government,0,kp_1_2,0.9736895561218262,1.0,1.0,1.0
+340,arg_1_60,social media platforms should be regulated by the government,0,kp_1_2,0.9300286173820496,1.0,1.0,1.0
+341,arg_1_61,social media platforms should be regulated by the government,0,kp_1_2,0.9680424928665161,1.0,1.0,1.0
+342,arg_1_62,social media platforms should be regulated by the government,0,kp_1_2,0.9755334258079529,1.0,1.0,1.0
+343,arg_1_63,social media platforms should be regulated by the government,0,kp_1_1,0.9446138143539429,1.0,1.0,1.0
+344,arg_1_64,social media platforms should be regulated by the government,0,kp_1_2,0.9857164025306702,1.0,1.0,1.0
+345,arg_1_65,social media platforms should be regulated by the government,0,kp_1_3,0.9789913892745972,1.0,1.0,1.0
+346,arg_1_66,social media platforms should be regulated by the government,0,kp_1_2,0.8372339010238647,1.0,1.0,1.0
+347,arg_1_67,social media platforms should be regulated by the government,0,kp_1_2,0.9858444929122925,1.0,1.0,1.0
+348,arg_1_68,social media platforms should be regulated by the government,0,kp_1_2,0.9480605721473694,1.0,1.0,1.0
+349,arg_1_69,social media platforms should be regulated by the government,0,kp_1_2,0.21470753848552704,1.0,1.0,1.0
+350,arg_1_70,social media platforms should be regulated by the government,0,kp_1_3,0.48187270760536194,0.0,0.0,0.0
+351,arg_1_71,social media platforms should be regulated by the government,0,kp_1_4,0.17858240008354187,0.0,0.0,0.0
+352,arg_1_72,social media platforms should be regulated by the government,0,kp_1_1,0.9857833385467529,1.0,1.0,1.0
+353,arg_1_73,social media platforms should be regulated by the government,0,kp_1_4,0.9406726360321045,1.0,1.0,1.0
+354,arg_1_74,social media platforms should be regulated by the government,0,kp_1_3,0.21288858354091644,0.0,0.0,0.0
+355,arg_1_75,social media platforms should be regulated by the government,0,kp_1_1,0.8920775055885315,1.0,1.0,1.0
+356,arg_1_76,social media platforms should be regulated by the government,0,kp_1_4,0.970565676689148,1.0,1.0,1.0
+357,arg_1_77,social media platforms should be regulated by the government,0,kp_1_3,0.4888817071914673,0.0,0.0,0.0
+358,arg_1_78,social media platforms should be regulated by the government,0,kp_1_3,0.5600041747093201,0.0,0.0,0.0
+359,arg_1_79,social media platforms should be regulated by the government,0,kp_1_1,0.979448139667511,1.0,1.0,1.0
+360,arg_1_80,social media platforms should be regulated by the government,0,kp_1_1,0.9379702806472778,,0.0,1.0
+361,arg_1_81,social media platforms should be regulated by the government,0,kp_1_1,0.836078405380249,1.0,1.0,1.0
+362,arg_1_82,social media platforms should be regulated by the government,0,kp_1_2,0.9897832274436951,1.0,1.0,1.0
+363,arg_1_83,social media platforms should be regulated by the government,0,kp_1_2,0.9480191469192505,1.0,1.0,1.0
+364,arg_1_84,social media platforms should be regulated by the government,0,kp_1_1,0.9924547672271729,1.0,1.0,1.0
+365,arg_1_85,social media platforms should be regulated by the government,0,kp_1_2,0.976581335067749,1.0,1.0,1.0
+366,arg_1_86,social media platforms should be regulated by the government,0,kp_1_2,0.9798526763916016,1.0,1.0,1.0
+367,arg_1_87,social media platforms should be regulated by the government,0,kp_1_3,0.9520304799079895,,0.0,1.0
+368,arg_1_88,social media platforms should be regulated by the government,0,kp_1_1,0.9814242720603943,1.0,1.0,1.0
+369,arg_1_89,social media platforms should be regulated by the government,0,kp_1_1,0.11284158378839493,0.0,0.0,0.0
+370,arg_1_90,social media platforms should be regulated by the government,0,kp_1_2,0.9867756962776184,1.0,1.0,1.0
+371,arg_1_91,social media platforms should be regulated by the government,0,kp_1_0,0.5788090825080872,1.0,1.0,1.0
+372,arg_1_92,social media platforms should be regulated by the government,0,kp_1_4,0.9873028993606567,1.0,1.0,1.0
+373,arg_1_93,social media platforms should be regulated by the government,0,kp_1_3,0.2495148628950119,0.0,0.0,0.0
+374,arg_1_94,social media platforms should be regulated by the government,0,kp_1_1,0.816851019859314,1.0,1.0,1.0
+375,arg_1_95,social media platforms should be regulated by the government,0,kp_1_3,0.9708461761474609,1.0,1.0,1.0
+376,arg_1_96,social media platforms should be regulated by the government,0,kp_1_2,0.9852708578109741,1.0,1.0,1.0
+377,arg_1_97,social media platforms should be regulated by the government,0,kp_1_3,0.9784045815467834,1.0,1.0,1.0
+378,arg_1_98,social media platforms should be regulated by the government,0,kp_1_3,0.13031625747680664,0.0,0.0,0.0
+379,arg_1_99,social media platforms should be regulated by the government,1,kp_1_9,0.02330046333372593,0.0,0.0,0.0
+380,arg_1_100,social media platforms should be regulated by the government,1,kp_1_6,0.9465646147727966,0.0,0.0,0.0
+381,arg_1_101,social media platforms should be regulated by the government,1,kp_1_6,0.2700994312763214,0.0,0.0,0.0
+382,arg_1_102,social media platforms should be regulated by the government,1,kp_1_6,0.9845157861709595,1.0,1.0,1.0
+383,arg_1_103,social media platforms should be regulated by the government,1,kp_1_8,0.9677905440330505,1.0,1.0,1.0
+384,arg_1_104,social media platforms should be regulated by the government,1,kp_1_9,0.9778687357902527,1.0,1.0,1.0
+385,arg_1_105,social media platforms should be regulated by the government,1,kp_1_9,0.01950632594525814,0.0,0.0,0.0
+386,arg_1_106,social media platforms should be regulated by the government,1,kp_1_5,0.8495534658432007,1.0,1.0,1.0
+387,arg_1_107,social media platforms should be regulated by the government,1,kp_1_8,0.8960686922073364,1.0,1.0,1.0
+388,arg_1_108,social media platforms should be regulated by the government,1,kp_1_8,0.9840154647827148,,0.0,1.0
+389,arg_1_109,social media platforms should be regulated by the government,1,kp_1_7,0.31674861907958984,0.0,0.0,0.0
+390,arg_1_110,social media platforms should be regulated by the government,1,kp_1_7,0.027740372344851494,0.0,0.0,0.0
+391,arg_1_111,social media platforms should be regulated by the government,1,kp_1_6,0.9106311202049255,1.0,1.0,1.0
+392,arg_1_112,social media platforms should be regulated by the government,1,kp_1_8,0.9644755125045776,,0.0,1.0
+393,arg_1_113,social media platforms should be regulated by the government,1,kp_1_6,0.9893636703491211,1.0,1.0,1.0
+394,arg_1_114,social media platforms should be regulated by the government,1,kp_1_8,0.49773311614990234,,0.0,1.0
+395,arg_1_115,social media platforms should be regulated by the government,1,kp_1_7,0.04448721185326576,0.0,0.0,0.0
+396,arg_1_116,social media platforms should be regulated by the government,1,kp_1_8,0.29617780447006226,1.0,1.0,1.0
+397,arg_1_117,social media platforms should be regulated by the government,1,kp_1_9,0.03515590727329254,0.0,0.0,0.0
+398,arg_1_118,social media platforms should be regulated by the government,1,kp_1_8,0.2273138165473938,,0.0,1.0
+399,arg_1_119,social media platforms should be regulated by the government,1,kp_1_6,0.04224347323179245,0.0,0.0,0.0
+400,arg_1_120,social media platforms should be regulated by the government,1,kp_1_9,0.884717583656311,1.0,1.0,1.0
+401,arg_1_121,social media platforms should be regulated by the government,1,kp_1_8,0.9881029725074768,1.0,1.0,1.0
+402,arg_1_122,social media platforms should be regulated by the government,1,kp_1_7,0.17322996258735657,0.0,0.0,0.0
+403,arg_1_123,social media platforms should be regulated by the government,1,kp_1_7,0.10959821939468384,0.0,0.0,0.0
+404,arg_1_124,social media platforms should be regulated by the government,1,kp_1_9,0.5260230898857117,,0.0,1.0
+405,arg_1_125,social media platforms should be regulated by the government,1,kp_1_7,0.832015872001648,1.0,1.0,1.0
+406,arg_1_126,social media platforms should be regulated by the government,1,kp_1_6,0.9285387992858887,1.0,1.0,1.0
+407,arg_1_127,social media platforms should be regulated by the government,1,kp_1_6,0.9591678977012634,1.0,1.0,1.0
+408,arg_1_128,social media platforms should be regulated by the government,1,kp_1_7,0.021594086661934853,0.0,0.0,0.0
+409,arg_1_129,social media platforms should be regulated by the government,1,kp_1_7,0.04820061847567558,0.0,0.0,0.0
+410,arg_1_130,social media platforms should be regulated by the government,1,kp_1_7,0.4326504170894623,0.0,0.0,0.0
+411,arg_1_131,social media platforms should be regulated by the government,1,kp_1_9,0.5213015079498291,1.0,1.0,1.0
+412,arg_1_132,social media platforms should be regulated by the government,1,kp_1_9,0.9806808829307556,1.0,1.0,1.0
+413,arg_1_133,social media platforms should be regulated by the government,1,kp_1_9,0.9738705158233643,,0.0,1.0
+414,arg_1_134,social media platforms should be regulated by the government,1,kp_1_9,0.03696725144982338,0.0,0.0,0.0
+415,arg_1_135,social media platforms should be regulated by the government,1,kp_1_7,0.9805454015731812,1.0,1.0,1.0
+416,arg_1_136,social media platforms should be regulated by the government,1,kp_1_7,0.03242531791329384,0.0,0.0,0.0
+417,arg_1_137,social media platforms should be regulated by the government,1,kp_1_6,0.8458189368247986,0.0,0.0,0.0
+418,arg_1_138,social media platforms should be regulated by the government,1,kp_1_7,0.789249837398529,,0.0,1.0
+419,arg_1_139,social media platforms should be regulated by the government,1,kp_1_6,0.9911822080612183,1.0,1.0,1.0
+420,arg_1_140,social media platforms should be regulated by the government,1,kp_1_6,0.9731835722923279,1.0,1.0,1.0
+421,arg_1_141,social media platforms should be regulated by the government,1,kp_1_8,0.9655976295471191,,0.0,1.0
+422,arg_1_142,social media platforms should be regulated by the government,1,kp_1_9,0.36943480372428894,1.0,1.0,1.0
+423,arg_1_143,social media platforms should be regulated by the government,1,kp_1_6,0.980044424533844,1.0,1.0,1.0
+424,arg_1_144,social media platforms should be regulated by the government,1,kp_1_7,0.032738398760557175,0.0,0.0,0.0
+425,arg_1_145,social media platforms should be regulated by the government,1,kp_1_9,0.9049475789070129,1.0,1.0,1.0
+426,arg_1_146,social media platforms should be regulated by the government,1,kp_1_9,0.5751216411590576,1.0,1.0,1.0
+427,arg_1_147,social media platforms should be regulated by the government,1,kp_1_7,0.086211659014225,0.0,0.0,0.0
+428,arg_1_148,social media platforms should be regulated by the government,1,kp_1_9,0.8996071219444275,,0.0,1.0
+429,arg_1_149,social media platforms should be regulated by the government,1,kp_1_8,0.9816323518753052,1.0,1.0,1.0
+430,arg_1_150,social media platforms should be regulated by the government,1,kp_1_7,0.050894442945718765,0.0,0.0,0.0
+431,arg_1_151,social media platforms should be regulated by the government,1,kp_1_9,0.8306037783622742,1.0,1.0,1.0
+432,arg_1_152,social media platforms should be regulated by the government,1,kp_1_9,0.903876543045044,1.0,1.0,1.0
+433,arg_1_153,social media platforms should be regulated by the government,1,kp_1_7,0.4894469678401947,0.0,0.0,0.0
+434,arg_1_154,social media platforms should be regulated by the government,1,kp_1_9,0.9557656645774841,1.0,1.0,1.0
+435,arg_1_155,social media platforms should be regulated by the government,1,kp_1_9,0.9821221828460693,1.0,1.0,1.0
+436,arg_1_156,social media platforms should be regulated by the government,1,kp_1_9,0.9797225594520569,1.0,1.0,1.0
+437,arg_1_157,social media platforms should be regulated by the government,1,kp_1_9,0.9446894526481628,1.0,1.0,1.0
+438,arg_1_158,social media platforms should be regulated by the government,1,kp_1_8,0.9436759352684021,1.0,1.0,1.0
+439,arg_1_159,social media platforms should be regulated by the government,1,kp_1_8,0.9684605598449707,1.0,1.0,1.0
+440,arg_1_160,social media platforms should be regulated by the government,1,kp_1_8,0.9612138867378235,1.0,1.0,1.0
+441,arg_1_161,social media platforms should be regulated by the government,1,kp_1_8,0.9185709953308105,1.0,1.0,1.0
+442,arg_1_162,social media platforms should be regulated by the government,1,kp_1_6,0.9713229537010193,1.0,1.0,1.0
+443,arg_1_163,social media platforms should be regulated by the government,1,kp_1_9,0.6035582423210144,1.0,1.0,1.0
+444,arg_1_164,social media platforms should be regulated by the government,1,kp_1_8,0.9389110803604126,1.0,1.0,1.0
+445,arg_1_165,social media platforms should be regulated by the government,1,kp_1_6,0.9881951808929443,1.0,1.0,1.0
+446,arg_1_166,social media platforms should be regulated by the government,1,kp_1_8,0.9773374795913696,1.0,1.0,1.0
+447,arg_1_167,social media platforms should be regulated by the government,1,kp_1_9,0.9258003830909729,,0.0,1.0
+448,arg_1_168,social media platforms should be regulated by the government,1,kp_1_9,0.903774082660675,1.0,1.0,1.0
+449,arg_1_169,social media platforms should be regulated by the government,1,kp_1_9,0.9436239004135132,1.0,1.0,1.0
+450,arg_1_170,social media platforms should be regulated by the government,1,kp_1_7,0.02914457581937313,0.0,0.0,0.0
+451,arg_1_171,social media platforms should be regulated by the government,1,kp_1_7,0.01730511523783207,,0.0,1.0
+452,arg_1_172,social media platforms should be regulated by the government,1,kp_1_7,0.01997780241072178,0.0,0.0,0.0
+453,arg_1_173,social media platforms should be regulated by the government,1,kp_1_7,0.021526779979467392,0.0,0.0,0.0
+454,arg_1_174,social media platforms should be regulated by the government,1,kp_1_9,0.5232471227645874,0.0,0.0,0.0
+455,arg_1_175,social media platforms should be regulated by the government,1,kp_1_7,0.03930434212088585,0.0,0.0,0.0
+456,arg_1_176,social media platforms should be regulated by the government,1,kp_1_9,0.7769560217857361,0.0,0.0,0.0
+457,arg_1_177,social media platforms should be regulated by the government,1,kp_1_8,0.9307522177696228,1.0,1.0,1.0
+458,arg_1_178,social media platforms should be regulated by the government,1,kp_1_8,0.03595973178744316,1.0,1.0,1.0
+459,arg_1_179,social media platforms should be regulated by the government,1,kp_1_6,0.9747520685195923,1.0,1.0,1.0
+460,arg_1_180,social media platforms should be regulated by the government,1,kp_1_7,0.46849194169044495,0.0,0.0,0.0
+461,arg_1_181,social media platforms should be regulated by the government,1,kp_1_7,0.7468591928482056,,0.0,1.0
+462,arg_1_182,social media platforms should be regulated by the government,1,kp_1_8,0.27365365624427795,0.0,0.0,0.0
+463,arg_1_183,social media platforms should be regulated by the government,1,kp_1_7,0.6672357320785522,,0.0,1.0
+464,arg_1_184,social media platforms should be regulated by the government,1,kp_1_9,0.8219000697135925,,0.0,1.0
+465,arg_1_185,social media platforms should be regulated by the government,1,kp_1_8,0.9813011884689331,1.0,1.0,1.0
+466,arg_1_186,social media platforms should be regulated by the government,1,kp_1_9,0.9640088081359863,1.0,1.0,1.0
+467,arg_1_187,social media platforms should be regulated by the government,1,kp_1_9,0.546086311340332,0.0,0.0,0.0
+468,arg_1_188,social media platforms should be regulated by the government,1,kp_1_7,0.811881959438324,,0.0,1.0
+469,arg_1_189,social media platforms should be regulated by the government,1,kp_1_7,0.937256395816803,,0.0,1.0
+470,arg_1_190,social media platforms should be regulated by the government,1,kp_1_6,0.9835313558578491,1.0,1.0,1.0
+471,arg_1_191,social media platforms should be regulated by the government,1,kp_1_5,0.9434627890586853,,0.0,1.0
+472,arg_1_192,social media platforms should be regulated by the government,1,kp_1_9,0.9057440161705017,1.0,1.0,1.0
+473,arg_1_193,social media platforms should be regulated by the government,1,kp_1_9,0.010980757884681225,0.0,0.0,0.0
+474,arg_1_194,social media platforms should be regulated by the government,1,kp_1_8,0.6750683784484863,,0.0,1.0
+475,arg_1_195,social media platforms should be regulated by the government,1,kp_1_9,0.972209632396698,1.0,1.0,1.0
+476,arg_1_196,social media platforms should be regulated by the government,1,kp_1_8,0.9651358127593994,,0.0,1.0
+477,arg_1_197,social media platforms should be regulated by the government,1,kp_1_8,0.9802832007408142,1.0,1.0,1.0
+478,arg_1_198,social media platforms should be regulated by the government,1,kp_1_8,0.9684061408042908,,0.0,1.0
+479,arg_1_199,social media platforms should be regulated by the government,1,kp_1_7,0.010823226533830166,0.0,0.0,0.0
+480,arg_1_200,social media platforms should be regulated by the government,1,kp_1_9,0.01224490161985159,0.0,0.0,0.0
+481,arg_1_201,social media platforms should be regulated by the government,1,kp_1_9,0.04410042241215706,0.0,0.0,0.0
+482,arg_1_202,social media platforms should be regulated by the government,1,kp_1_9,0.05222783610224724,0.0,0.0,0.0
+483,arg_1_203,social media platforms should be regulated by the government,1,kp_1_5,0.017959177494049072,0.0,0.0,0.0
+484,arg_1_204,social media platforms should be regulated by the government,1,kp_1_8,0.6148898005485535,,0.0,1.0
+485,arg_1_205,social media platforms should be regulated by the government,1,kp_1_9,0.9774981737136841,1.0,1.0,1.0
+486,arg_1_206,social media platforms should be regulated by the government,1,kp_1_6,0.9703049063682556,1.0,1.0,1.0
+487,arg_1_207,social media platforms should be regulated by the government,1,kp_1_9,0.9681437015533447,1.0,1.0,1.0
+488,arg_1_208,social media platforms should be regulated by the government,1,kp_1_6,0.9712943434715271,1.0,1.0,1.0
+489,arg_1_209,social media platforms should be regulated by the government,1,kp_1_6,0.8867968916893005,,0.0,1.0
+490,arg_1_210,social media platforms should be regulated by the government,1,kp_1_7,0.685772716999054,,0.0,1.0
+491,arg_1_211,social media platforms should be regulated by the government,1,kp_1_9,0.9230009317398071,0.0,0.0,0.0
+492,arg_1_212,social media platforms should be regulated by the government,1,kp_1_5,0.6618122458457947,0.0,0.0,0.0
+493,arg_1_213,social media platforms should be regulated by the government,1,kp_1_5,0.9069082140922546,1.0,1.0,1.0
+494,arg_1_214,social media platforms should be regulated by the government,1,kp_1_9,0.751649022102356,1.0,1.0,1.0
+495,arg_1_215,social media platforms should be regulated by the government,1,kp_1_8,0.9609707593917847,,0.0,1.0
+496,arg_1_216,social media platforms should be regulated by the government,1,kp_1_9,0.8759253025054932,1.0,1.0,1.0
+497,arg_1_217,social media platforms should be regulated by the government,1,kp_1_9,0.40706735849380493,0.0,0.0,0.0
+498,arg_1_218,social media platforms should be regulated by the government,1,kp_1_9,0.8697783946990967,0.0,0.0,0.0
+499,arg_1_219,social media platforms should be regulated by the government,1,kp_1_7,0.8078271746635437,,0.0,1.0
+500,arg_1_220,social media platforms should be regulated by the government,1,kp_1_5,0.8663704991340637,1.0,1.0,1.0
+501,arg_1_221,social media platforms should be regulated by the government,1,kp_1_8,0.7205474376678467,0.0,0.0,0.0
+502,arg_1_222,social media platforms should be regulated by the government,1,kp_1_9,0.9843993186950684,0.0,0.0,0.0
+503,arg_1_223,social media platforms should be regulated by the government,1,kp_1_7,0.16457077860832214,,0.0,1.0
+504,arg_1_224,social media platforms should be regulated by the government,1,kp_1_6,0.9605133533477783,1.0,1.0,1.0
+505,arg_1_225,social media platforms should be regulated by the government,1,kp_1_7,0.9883624911308289,1.0,1.0,1.0
+506,arg_1_226,social media platforms should be regulated by the government,1,kp_1_6,0.9809653162956238,1.0,1.0,1.0
+507,arg_1_227,social media platforms should be regulated by the government,1,kp_1_6,0.9397290349006653,0.0,0.0,0.0
+508,arg_1_228,social media platforms should be regulated by the government,1,kp_1_9,0.39725250005722046,0.0,0.0,0.0
+509,arg_1_229,social media platforms should be regulated by the government,1,kp_1_5,0.40013784170150757,1.0,1.0,1.0
+510,arg_1_230,social media platforms should be regulated by the government,1,kp_1_9,0.8758333325386047,1.0,1.0,1.0
+511,arg_1_231,social media platforms should be regulated by the government,1,kp_1_6,0.9857819080352783,1.0,1.0,1.0
+512,arg_1_232,social media platforms should be regulated by the government,1,kp_1_8,0.8249193429946899,,0.0,1.0
+513,arg_2_0,the usa is a good country to live in,0,kp_2_3,0.958702564239502,1.0,1.0,1.0
+514,arg_2_1,the usa is a good country to live in,0,kp_2_3,0.9649416208267212,1.0,1.0,1.0
+515,arg_2_2,the usa is a good country to live in,0,kp_2_4,0.17674745619297028,0.0,0.0,0.0
+516,arg_2_3,the usa is a good country to live in,0,kp_2_5,0.11148502677679062,,0.0,1.0
+517,arg_2_4,the usa is a good country to live in,0,kp_2_0,0.08430006355047226,0.0,0.0,0.0
+518,arg_2_5,the usa is a good country to live in,0,kp_2_2,0.9839906692504883,1.0,1.0,1.0
+519,arg_2_6,the usa is a good country to live in,0,kp_2_5,0.985403299331665,1.0,1.0,1.0
+520,arg_2_7,the usa is a good country to live in,0,kp_2_5,0.05454222485423088,0.0,0.0,0.0
+521,arg_2_8,the usa is a good country to live in,0,kp_2_1,0.981137752532959,1.0,1.0,1.0
+522,arg_2_9,the usa is a good country to live in,0,kp_2_6,0.5420030951499939,1.0,1.0,1.0
+523,arg_2_10,the usa is a good country to live in,0,kp_2_0,0.05398263782262802,0.0,0.0,0.0
+524,arg_2_11,the usa is a good country to live in,0,kp_2_5,0.27137190103530884,0.0,0.0,0.0
+525,arg_2_12,the usa is a good country to live in,0,kp_2_5,0.08787801861763,1.0,1.0,1.0
+526,arg_2_13,the usa is a good country to live in,0,kp_2_3,0.905958354473114,0.0,0.0,0.0
+527,arg_2_14,the usa is a good country to live in,0,kp_2_1,0.9780817627906799,1.0,1.0,1.0
+528,arg_2_15,the usa is a good country to live in,0,kp_2_0,0.9833130240440369,1.0,1.0,1.0
+529,arg_2_16,the usa is a good country to live in,0,kp_2_5,0.33196428418159485,1.0,1.0,1.0
+530,arg_2_17,the usa is a good country to live in,0,kp_2_5,0.21553343534469604,,0.0,1.0
+531,arg_2_18,the usa is a good country to live in,0,kp_2_3,0.9869721531867981,1.0,1.0,1.0
+532,arg_2_19,the usa is a good country to live in,0,kp_2_1,0.9854244589805603,,0.0,1.0
+533,arg_2_20,the usa is a good country to live in,0,kp_2_6,0.5201234221458435,0.0,0.0,0.0
+534,arg_2_21,the usa is a good country to live in,0,kp_2_1,0.3205747604370117,1.0,1.0,1.0
+535,arg_2_22,the usa is a good country to live in,0,kp_2_5,0.9844112396240234,1.0,1.0,1.0
+536,arg_2_23,the usa is a good country to live in,0,kp_2_4,0.9769534468650818,1.0,1.0,1.0
+537,arg_2_24,the usa is a good country to live in,0,kp_2_6,0.3048914670944214,,0.0,1.0
+538,arg_2_25,the usa is a good country to live in,0,kp_2_4,0.9852692484855652,1.0,1.0,1.0
+539,arg_2_26,the usa is a good country to live in,0,kp_2_4,0.979362964630127,1.0,1.0,1.0
+540,arg_2_27,the usa is a good country to live in,0,kp_2_3,0.9781127572059631,1.0,1.0,1.0
+541,arg_2_28,the usa is a good country to live in,0,kp_2_4,0.83986896276474,,0.0,1.0
+542,arg_2_29,the usa is a good country to live in,0,kp_2_2,0.9828497767448425,1.0,1.0,1.0
+543,arg_2_30,the usa is a good country to live in,0,kp_2_4,0.10284096002578735,0.0,0.0,0.0
+544,arg_2_31,the usa is a good country to live in,0,kp_2_6,0.9555842876434326,1.0,1.0,1.0
+545,arg_2_32,the usa is a good country to live in,0,kp_2_2,0.9763481020927429,1.0,1.0,1.0
+546,arg_2_33,the usa is a good country to live in,0,kp_2_5,0.05838432163000107,,0.0,1.0
+547,arg_2_34,the usa is a good country to live in,0,kp_2_2,0.9261401295661926,1.0,1.0,1.0
+548,arg_2_35,the usa is a good country to live in,0,kp_2_5,0.9598994255065918,0.0,0.0,0.0
+549,arg_2_36,the usa is a good country to live in,0,kp_2_4,0.9839738011360168,1.0,1.0,1.0
+550,arg_2_37,the usa is a good country to live in,0,kp_2_6,0.08785291761159897,0.0,0.0,0.0
+551,arg_2_38,the usa is a good country to live in,0,kp_2_6,0.06733572483062744,0.0,0.0,0.0
+552,arg_2_39,the usa is a good country to live in,0,kp_2_3,0.779900848865509,1.0,1.0,1.0
+553,arg_2_40,the usa is a good country to live in,0,kp_2_1,0.9867462515830994,1.0,1.0,1.0
+554,arg_2_41,the usa is a good country to live in,0,kp_2_2,0.931232750415802,,0.0,1.0
+555,arg_2_42,the usa is a good country to live in,0,kp_2_3,0.9175369143486023,1.0,1.0,1.0
+556,arg_2_43,the usa is a good country to live in,0,kp_2_4,0.9746281504631042,1.0,1.0,1.0
+557,arg_2_44,the usa is a good country to live in,0,kp_2_6,0.023279165849089622,0.0,0.0,0.0
+558,arg_2_45,the usa is a good country to live in,0,kp_2_1,0.42606815695762634,1.0,1.0,1.0
+559,arg_2_46,the usa is a good country to live in,0,kp_2_4,0.39019328355789185,,0.0,1.0
+560,arg_2_47,the usa is a good country to live in,0,kp_2_2,0.9774568676948547,,0.0,1.0
+561,arg_2_48,the usa is a good country to live in,0,kp_2_4,0.18385592103004456,0.0,0.0,0.0
+562,arg_2_49,the usa is a good country to live in,0,kp_2_4,0.9686239361763,1.0,1.0,1.0
+563,arg_2_50,the usa is a good country to live in,0,kp_2_0,0.9814432859420776,1.0,1.0,1.0
+564,arg_2_51,the usa is a good country to live in,0,kp_2_0,0.967860221862793,1.0,1.0,1.0
+565,arg_2_52,the usa is a good country to live in,0,kp_2_0,0.9838362336158752,1.0,1.0,1.0
+566,arg_2_53,the usa is a good country to live in,0,kp_2_2,0.05788419395685196,0.0,0.0,0.0
+567,arg_2_54,the usa is a good country to live in,0,kp_2_2,0.9734407067298889,1.0,1.0,1.0
+568,arg_2_55,the usa is a good country to live in,0,kp_2_2,0.9818693995475769,1.0,1.0,1.0
+569,arg_2_56,the usa is a good country to live in,0,kp_2_4,0.9546942114830017,1.0,1.0,1.0
+570,arg_2_57,the usa is a good country to live in,0,kp_2_3,0.9839493632316589,1.0,1.0,1.0
+571,arg_2_58,the usa is a good country to live in,0,kp_2_1,0.960168182849884,1.0,1.0,1.0
+572,arg_2_59,the usa is a good country to live in,0,kp_2_5,0.08821934461593628,1.0,1.0,1.0
+573,arg_2_60,the usa is a good country to live in,0,kp_2_0,0.9857156872749329,1.0,1.0,1.0
+574,arg_2_61,the usa is a good country to live in,0,kp_2_6,0.5168349146842957,1.0,1.0,1.0
+575,arg_2_62,the usa is a good country to live in,0,kp_2_5,0.047519221901893616,,0.0,1.0
+576,arg_2_63,the usa is a good country to live in,0,kp_2_3,0.5737923383712769,1.0,1.0,1.0
+577,arg_2_64,the usa is a good country to live in,0,kp_2_2,0.9772392511367798,1.0,1.0,1.0
+578,arg_2_65,the usa is a good country to live in,0,kp_2_3,0.9725872874259949,1.0,1.0,1.0
+579,arg_2_66,the usa is a good country to live in,1,kp_2_9,0.988051176071167,1.0,1.0,1.0
+580,arg_2_67,the usa is a good country to live in,1,kp_2_10,0.9435945153236389,,0.0,1.0
+581,arg_2_68,the usa is a good country to live in,1,kp_2_8,0.9497446417808533,1.0,1.0,1.0
+582,arg_2_69,the usa is a good country to live in,1,kp_2_11,0.9042108058929443,0.0,0.0,0.0
+583,arg_2_70,the usa is a good country to live in,1,kp_2_13,0.9763604998588562,1.0,1.0,1.0
+584,arg_2_71,the usa is a good country to live in,1,kp_2_13,0.9882440567016602,1.0,1.0,1.0
+585,arg_2_72,the usa is a good country to live in,1,kp_2_11,0.9852502942085266,,0.0,1.0
+586,arg_2_73,the usa is a good country to live in,1,kp_2_11,0.4126846492290497,0.0,0.0,0.0
+587,arg_2_74,the usa is a good country to live in,1,kp_2_9,0.9792611002922058,1.0,1.0,1.0
+588,arg_2_75,the usa is a good country to live in,1,kp_2_8,0.9604504704475403,1.0,1.0,1.0
+589,arg_2_76,the usa is a good country to live in,1,kp_2_9,0.9877723455429077,1.0,1.0,1.0
+590,arg_2_77,the usa is a good country to live in,1,kp_2_8,0.9455421566963196,1.0,1.0,1.0
+591,arg_2_78,the usa is a good country to live in,1,kp_2_8,0.8051546216011047,1.0,1.0,1.0
+592,arg_2_79,the usa is a good country to live in,1,kp_2_8,0.9743337035179138,1.0,1.0,1.0
+593,arg_2_80,the usa is a good country to live in,1,kp_2_11,0.9492330551147461,1.0,1.0,1.0
+594,arg_2_81,the usa is a good country to live in,1,kp_2_11,0.986194372177124,1.0,1.0,1.0
+595,arg_2_82,the usa is a good country to live in,1,kp_2_7,0.19552499055862427,1.0,1.0,1.0
+596,arg_2_83,the usa is a good country to live in,1,kp_2_11,0.9689235687255859,1.0,1.0,1.0
+597,arg_2_84,the usa is a good country to live in,1,kp_2_7,0.965008556842804,1.0,1.0,1.0
+598,arg_2_85,the usa is a good country to live in,1,kp_2_10,0.9639081358909607,1.0,1.0,1.0
+599,arg_2_86,the usa is a good country to live in,1,kp_2_10,0.12641893327236176,,0.0,1.0
+600,arg_2_87,the usa is a good country to live in,1,kp_2_7,0.9852339625358582,1.0,1.0,1.0
+601,arg_2_88,the usa is a good country to live in,1,kp_2_10,0.16825200617313385,0.0,0.0,0.0
+602,arg_2_89,the usa is a good country to live in,1,kp_2_11,0.9891440272331238,1.0,1.0,1.0
+603,arg_2_90,the usa is a good country to live in,1,kp_2_7,0.9780561923980713,1.0,1.0,1.0
+604,arg_2_91,the usa is a good country to live in,1,kp_2_7,0.976554811000824,1.0,1.0,1.0
+605,arg_2_92,the usa is a good country to live in,1,kp_2_7,0.9399608373641968,1.0,1.0,1.0
+606,arg_2_93,the usa is a good country to live in,1,kp_2_11,0.8973467350006104,,0.0,1.0
+607,arg_2_94,the usa is a good country to live in,1,kp_2_7,0.986014723777771,1.0,1.0,1.0
+608,arg_2_95,the usa is a good country to live in,1,kp_2_7,0.9838830828666687,1.0,1.0,1.0
+609,arg_2_96,the usa is a good country to live in,1,kp_2_7,0.9780027270317078,1.0,1.0,1.0
+610,arg_2_97,the usa is a good country to live in,1,kp_2_7,0.9476301670074463,1.0,1.0,1.0
+611,arg_2_98,the usa is a good country to live in,1,kp_2_13,0.9817652702331543,1.0,1.0,1.0
+612,arg_2_99,the usa is a good country to live in,1,kp_2_11,0.9756547212600708,1.0,1.0,1.0
+613,arg_2_100,the usa is a good country to live in,1,kp_2_10,0.13016317784786224,0.0,0.0,0.0
+614,arg_2_101,the usa is a good country to live in,1,kp_2_11,0.9740225076675415,1.0,1.0,1.0
+615,arg_2_102,the usa is a good country to live in,1,kp_2_11,0.9749394059181213,1.0,1.0,1.0
+616,arg_2_103,the usa is a good country to live in,1,kp_2_12,0.04555167257785797,,0.0,1.0
+617,arg_2_104,the usa is a good country to live in,1,kp_2_9,0.9883251190185547,1.0,1.0,1.0
+618,arg_2_105,the usa is a good country to live in,1,kp_2_8,0.6448388695716858,0.0,0.0,0.0
+619,arg_2_106,the usa is a good country to live in,1,kp_2_11,0.6279866099357605,,0.0,1.0
+620,arg_2_107,the usa is a good country to live in,1,kp_2_11,0.8440530896186829,1.0,1.0,1.0
+621,arg_2_108,the usa is a good country to live in,1,kp_2_10,0.10873440653085709,0.0,0.0,0.0
+622,arg_2_109,the usa is a good country to live in,1,kp_2_11,0.9897093176841736,1.0,1.0,1.0
+623,arg_2_110,the usa is a good country to live in,1,kp_2_7,0.6177060008049011,,0.0,1.0
+624,arg_2_111,the usa is a good country to live in,1,kp_2_11,0.5746477246284485,1.0,1.0,1.0
+625,arg_2_112,the usa is a good country to live in,1,kp_2_12,0.9452747106552124,,0.0,1.0
+626,arg_2_113,the usa is a good country to live in,1,kp_2_8,0.9815555214881897,1.0,1.0,1.0
+627,arg_2_114,the usa is a good country to live in,1,kp_2_11,0.9766405820846558,1.0,1.0,1.0
+628,arg_2_115,the usa is a good country to live in,1,kp_2_8,0.677208662033081,0.0,0.0,0.0
+629,arg_2_116,the usa is a good country to live in,1,kp_2_10,0.5679253339767456,1.0,1.0,1.0
+630,arg_2_117,the usa is a good country to live in,1,kp_2_10,0.9718611836433411,1.0,1.0,1.0
+631,arg_2_118,the usa is a good country to live in,1,kp_2_7,0.9634549021720886,1.0,1.0,1.0
+632,arg_2_119,the usa is a good country to live in,1,kp_2_7,0.9687652587890625,1.0,1.0,1.0
+633,arg_2_120,the usa is a good country to live in,1,kp_2_11,0.9759752750396729,1.0,1.0,1.0
+634,arg_2_121,the usa is a good country to live in,1,kp_2_13,0.9104300737380981,1.0,1.0,1.0
+635,arg_2_122,the usa is a good country to live in,1,kp_2_11,0.9779744148254395,1.0,1.0,1.0
+636,arg_2_123,the usa is a good country to live in,1,kp_2_10,0.3195658326148987,0.0,0.0,0.0
+637,arg_2_124,the usa is a good country to live in,1,kp_2_8,0.9871199131011963,1.0,1.0,1.0
+638,arg_2_125,the usa is a good country to live in,1,kp_2_7,0.9894220232963562,1.0,1.0,1.0
+639,arg_2_126,the usa is a good country to live in,1,kp_2_10,0.36491551995277405,0.0,0.0,0.0
+640,arg_2_127,the usa is a good country to live in,1,kp_2_7,0.9770679473876953,1.0,1.0,1.0
+641,arg_2_128,the usa is a good country to live in,1,kp_2_8,0.9896755814552307,1.0,1.0,1.0
+642,arg_2_129,the usa is a good country to live in,1,kp_2_7,0.9662210941314697,1.0,1.0,1.0
+643,arg_2_130,the usa is a good country to live in,1,kp_2_8,0.985056459903717,1.0,1.0,1.0
+644,arg_2_131,the usa is a good country to live in,1,kp_2_11,0.9863420128822327,1.0,1.0,1.0
+645,arg_2_132,the usa is a good country to live in,1,kp_2_8,0.9726851582527161,1.0,1.0,1.0
+646,arg_2_133,the usa is a good country to live in,1,kp_2_7,0.9785968065261841,1.0,1.0,1.0
+647,arg_2_134,the usa is a good country to live in,1,kp_2_12,0.9728514552116394,1.0,1.0,1.0
+648,arg_2_135,the usa is a good country to live in,1,kp_2_8,0.9778009057044983,1.0,1.0,1.0
+649,arg_2_136,the usa is a good country to live in,1,kp_2_7,0.9814406633377075,1.0,1.0,1.0
+650,arg_2_137,the usa is a good country to live in,1,kp_2_8,0.986107587814331,1.0,1.0,1.0
+651,arg_2_138,the usa is a good country to live in,1,kp_2_7,0.8536361455917358,1.0,1.0,1.0
+652,arg_2_139,the usa is a good country to live in,1,kp_2_7,0.9375357031822205,,0.0,1.0
+653,arg_2_140,the usa is a good country to live in,1,kp_2_8,0.9816630482673645,1.0,1.0,1.0
+654,arg_2_141,the usa is a good country to live in,1,kp_2_9,0.9860755801200867,1.0,1.0,1.0
+655,arg_2_142,the usa is a good country to live in,1,kp_2_7,0.9767827391624451,,0.0,1.0
+656,arg_2_143,the usa is a good country to live in,1,kp_2_13,0.9175082445144653,1.0,1.0,1.0
+657,arg_2_144,the usa is a good country to live in,1,kp_2_11,0.983923614025116,1.0,1.0,1.0
+658,arg_2_145,the usa is a good country to live in,1,kp_2_7,0.3412761092185974,1.0,1.0,1.0
+659,arg_2_146,the usa is a good country to live in,1,kp_2_7,0.9714111089706421,1.0,1.0,1.0
+660,arg_2_147,the usa is a good country to live in,1,kp_2_7,0.9203982353210449,1.0,1.0,1.0
+661,arg_2_148,the usa is a good country to live in,1,kp_2_8,0.9493740200996399,1.0,1.0,1.0
+662,arg_2_149,the usa is a good country to live in,1,kp_2_11,0.977077066898346,1.0,1.0,1.0
+663,arg_2_150,the usa is a good country to live in,1,kp_2_10,0.9722372889518738,1.0,1.0,1.0
+664,arg_2_151,the usa is a good country to live in,1,kp_2_7,0.45855215191841125,1.0,1.0,1.0
+665,arg_2_152,the usa is a good country to live in,1,kp_2_7,0.9628986120223999,1.0,1.0,1.0
+666,arg_2_153,the usa is a good country to live in,1,kp_2_11,0.9701740741729736,1.0,1.0,1.0
+667,arg_2_154,the usa is a good country to live in,1,kp_2_7,0.8998403549194336,1.0,1.0,1.0
+668,arg_2_155,the usa is a good country to live in,1,kp_2_12,0.023304445669054985,0.0,0.0,0.0
+669,arg_2_156,the usa is a good country to live in,1,kp_2_11,0.9811745882034302,1.0,1.0,1.0
+670,arg_2_157,the usa is a good country to live in,1,kp_2_11,0.9826695919036865,1.0,1.0,1.0
+671,arg_2_158,the usa is a good country to live in,1,kp_2_11,0.9837158918380737,1.0,1.0,1.0
+672,arg_2_159,the usa is a good country to live in,1,kp_2_8,0.9827427864074707,1.0,1.0,1.0
+673,arg_2_160,the usa is a good country to live in,1,kp_2_10,0.8823591470718384,,0.0,1.0
+674,arg_2_161,the usa is a good country to live in,1,kp_2_10,0.5626315474510193,1.0,1.0,1.0
+675,arg_2_162,the usa is a good country to live in,1,kp_2_11,0.9359698295593262,1.0,1.0,1.0
+676,arg_2_163,the usa is a good country to live in,1,kp_2_11,0.9889259934425354,1.0,1.0,1.0
+677,arg_2_164,the usa is a good country to live in,1,kp_2_10,0.7515869736671448,1.0,1.0,1.0
+678,arg_2_165,the usa is a good country to live in,1,kp_2_10,0.6937955021858215,,0.0,1.0
+679,arg_2_166,the usa is a good country to live in,1,kp_2_10,0.43387192487716675,0.0,0.0,0.0
+680,arg_2_167,the usa is a good country to live in,1,kp_2_10,0.06574761867523193,0.0,0.0,0.0
+681,arg_2_168,the usa is a good country to live in,1,kp_2_10,0.08376786857843399,0.0,0.0,0.0
+682,arg_2_169,the usa is a good country to live in,1,kp_2_8,0.9811644554138184,1.0,1.0,1.0
+683,arg_2_170,the usa is a good country to live in,1,kp_2_7,0.10783986747264862,0.0,0.0,0.0
+684,arg_2_171,the usa is a good country to live in,1,kp_2_10,0.8743014931678772,1.0,1.0,1.0
+685,arg_2_172,the usa is a good country to live in,1,kp_2_13,0.1768196076154709,0.0,0.0,0.0
+686,arg_2_173,the usa is a good country to live in,1,kp_2_7,0.9454954862594604,1.0,1.0,1.0
+687,arg_2_174,the usa is a good country to live in,1,kp_2_7,0.34692105650901794,0.0,0.0,0.0
+688,arg_2_175,the usa is a good country to live in,1,kp_2_7,0.9808545112609863,1.0,1.0,1.0
+689,arg_2_176,the usa is a good country to live in,1,kp_2_7,0.9812110662460327,1.0,1.0,1.0
+690,arg_2_177,the usa is a good country to live in,1,kp_2_12,0.9776273965835571,1.0,1.0,1.0
+691,arg_2_178,the usa is a good country to live in,1,kp_2_8,0.5464021563529968,,0.0,1.0
+692,arg_2_179,the usa is a good country to live in,1,kp_2_11,0.9750828146934509,1.0,1.0,1.0
+693,arg_2_180,the usa is a good country to live in,1,kp_2_7,0.9359439015388489,1.0,1.0,1.0
+694,arg_2_181,the usa is a good country to live in,1,kp_2_12,0.6029254794120789,1.0,1.0,1.0
+695,arg_2_182,the usa is a good country to live in,1,kp_2_12,0.9825557470321655,1.0,1.0,1.0
+696,arg_2_183,the usa is a good country to live in,1,kp_2_11,0.9862616658210754,1.0,1.0,1.0
+697,arg_2_184,the usa is a good country to live in,1,kp_2_11,0.9548931121826172,,0.0,1.0
+698,arg_2_185,the usa is a good country to live in,1,kp_2_7,0.9785334467887878,1.0,1.0,1.0
+699,arg_2_186,the usa is a good country to live in,1,kp_2_13,0.9325772523880005,1.0,1.0,1.0
+700,arg_2_187,the usa is a good country to live in,1,kp_2_7,0.9669838547706604,1.0,1.0,1.0
+701,arg_2_188,the usa is a good country to live in,1,kp_2_11,0.412392795085907,1.0,1.0,1.0
+702,arg_2_189,the usa is a good country to live in,1,kp_2_11,0.9849765300750732,,0.0,1.0
+703,arg_2_190,the usa is a good country to live in,1,kp_2_10,0.6078264713287354,0.0,0.0,0.0
+704,arg_2_191,the usa is a good country to live in,1,kp_2_11,0.9403039813041687,,0.0,1.0
+705,arg_2_192,the usa is a good country to live in,1,kp_2_7,0.9502599835395813,1.0,1.0,1.0
+706,arg_2_193,the usa is a good country to live in,1,kp_2_8,0.062819704413414,0.0,0.0,0.0
+707,arg_2_194,the usa is a good country to live in,1,kp_2_11,0.9659144878387451,1.0,1.0,1.0
+708,arg_2_195,the usa is a good country to live in,1,kp_2_8,0.9875284433364868,1.0,1.0,1.0
+709,arg_2_196,the usa is a good country to live in,1,kp_2_9,0.356344997882843,,0.0,1.0
+710,arg_2_197,the usa is a good country to live in,1,kp_2_11,0.910435140132904,1.0,1.0,1.0
+711,arg_2_198,the usa is a good country to live in,1,kp_2_11,0.89975506067276,0.0,0.0,0.0
+712,arg_2_199,the usa is a good country to live in,1,kp_2_11,0.8834317922592163,,0.0,1.0
+713,arg_2_200,the usa is a good country to live in,1,kp_2_10,0.8742667436599731,,0.0,1.0
+714,arg_2_201,the usa is a good country to live in,1,kp_2_11,0.13008294999599457,0.0,0.0,0.0
+715,arg_2_202,the usa is a good country to live in,1,kp_2_8,0.8735759258270264,1.0,1.0,1.0
+716,arg_2_203,the usa is a good country to live in,1,kp_2_7,0.8459334969520569,1.0,1.0,1.0
+717,arg_2_204,the usa is a good country to live in,1,kp_2_11,0.952478289604187,1.0,1.0,1.0
+718,arg_2_205,the usa is a good country to live in,1,kp_2_13,0.7117482423782349,0.0,0.0,0.0
+719,arg_2_206,the usa is a good country to live in,1,kp_2_10,0.14705334603786469,0.0,0.0,0.0
+720,arg_2_207,the usa is a good country to live in,1,kp_2_11,0.8123230338096619,1.0,1.0,1.0
+721,arg_2_208,the usa is a good country to live in,1,kp_2_10,0.40067413449287415,0.0,0.0,0.0
+722,arg_2_209,the usa is a good country to live in,1,kp_2_12,0.9715283513069153,1.0,1.0,1.0
