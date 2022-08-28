@@ -1,0 +1,2 @@
+{'epochs': 2, 'learning_rate': 1e-05, 'batch_size': 32, 'drop_out': 0.2, 'unit_1': 10}{'ts_cr': ['              precision    recall  f1-score   support\n\n           0       0.83      0.62      0.71       170\n           1       0.86      0.95      0.90       422\n\n    accuracy                           0.85       592\n   macro avg       0.84      0.78      0.80       592\nweighted avg       0.85      0.85      0.85       592\n'], 'ts_cm': [array([[105,  65],
+       [ 22, 400]])], 'ts_map_strict': [0.7347296941803435], 'ts_map_relaxed': [0.8929432314475476]}
